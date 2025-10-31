@@ -1,6 +1,6 @@
-<h1 align = "center">Hi 👋, I'm Eyosi</h1>
-<h3 align="center">Software Engineer | Rust Admirer | Open Source Lover</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Iyosinator&label=Profile%20views&color=0e75b6&style=flat" alt="Iyosinator" /> </p>
+<h1 align = "center">Hi 👋, I'm Beki</h1>
+<h3 align="center">Frontend Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Beckynator&label=Profile%20views&color=0e75b6&style=flat" alt="Beckynator" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,14 +13,10 @@
 </p>
 <h3 align="left">Languages and Tools I 💖 To Use:</h3>
 <p align="left">
-    <a href="hello.com"> <img src="assets/rust.svg" alt="rust" width="45" height="45"/></a>
     <a href="hello.com"> <img src="assets/python.svg" alt="python" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="hello.com"> <img src="assets/typescript.svg" alt="typescript" width="40" height="40"/></a>
-    <a href="hello.com"> <img src="assets/elixir.svg" alt="elixir" width="40" height="40"/></a>
-     <a href="hello.com"> <img src="assets/lua.svg" alt="javascript" width="50" height="50"/></a>
-    <a href="hello.com"> <img src="assets/postgresql.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="hello.com"> <img src="assets/mongodb.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="hello.com"> <img src="assets/redis.svg" alt="javascript" width="35" height="35"/></a>
-</p>
+     <a href="hello.com"> <img src="assets/javascript.svg" alt="HTML" width="40" height="40"/></a>
+      <a href="hello.com"> <img src="assets/javascript.svg" alt="CSS" width="40" height="40"/></a>
+    
+
 
